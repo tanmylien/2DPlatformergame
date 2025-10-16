@@ -9,12 +9,21 @@ A 2D Platformer inspired by classic retro platform games like Super Mario Bros. 
 ### Core Mechanics
 #### _Movement:_ 
 Player can run left/right and jump to traverse the map.
-Collectibles: 
+
+#### _Collectibles:_
 Cherries are scattered across the level; collecting them increases score. A total score of 10 cherries will be a win.
-Combat/Interaction with Enemies:
-Pig enemy: patrols between two points. Can be defeated by stomping on its head. Touching it from the sides will damage the player. Player will lose 1 heart.
-Frog enemy: stationary hazard. Can be defeated by stomping but damages from the sides. Player will lose 1 heart.
-Bear enemy: patrols like the pig, but indestructible. Any contact causes instant game over.
+
+#### _Combat/Interaction with Enemies:_
+
+##### Pig enemy 🐷: 
+Patrols between two points. Can be defeated by stomping on its head. Touching it from the sides will damage the player. Player will lose 1 heart.
+
+##### Frog enemy 🐸: 
+Stationary hazard. Can be defeated by stomping but damages from the sides. Player will lose 1 heart.
+
+##### Bear enemy 🐻: 
+Patrols like the pig, but indestructible. Any contact causes instant game over.
+
 Hazards: Spikes, crates, and falling into the death zone all damage or kill the player.
 Spikes are skulls which will launch to the sky when player touch an area that triggers it. Most of the time, the player cannot avoid the launching of the spike but they can avoid being hurt by it. Touching the spikes when they launch will damage the player and they will lose a heart.
 Crates: crates in the game serve as moving platforms that rise and fall vertically. Two crates are placed in the level, each moving at a different speed: one moves quickly to create a timing challenge for the player, while the other moves more slowly and can be used as a tool to reach higher areas, such as platforms where cherries are located. If the player is caught underneath a crate while it descends, they will be “crushed” and lose one heart. This mechanic adds variety to movement and encourages strategic use of the environment. Finally, falling out of the map results in an instant game over, reinforcing the importance of careful platforming and precise jumps.
