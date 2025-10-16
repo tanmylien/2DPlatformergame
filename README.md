@@ -46,6 +46,8 @@ A “You Win!” screen appears with a restart option.
 - Fall off the screen into a void.
 - A “Game Over” screen appears with a restart option.
 
+![Image](https://github.com/user-attachments/assets/9f0c6d13-bc70-463b-a8e3-fd8f966b3181)
+
 ### What creative additions you implemented
 #### <ins>_Animated Character Sprites_</ins>
 The player has unique animations for different states:  
