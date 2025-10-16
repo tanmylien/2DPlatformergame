@@ -49,10 +49,10 @@ A “You Win!” screen appears with a restart option.
 ### What creative additions you implemented
 #### <ins>_Animated Character Sprites_</ins>
 The player has unique animations for different states:  
-Idle: when standing still.
-Running: when moving horizontally.
-Jumping: when airborne.
-Enemies like pigs, frogs, and bear also have animations such as idle, walking, or running, which bring life and personality to the game world. 
+- Idle: when standing still.
+- Running: when moving horizontally.
+- Jumping: when airborne.
+- Enemies like pigs, frogs, and bear also have animations such as idle, walking, or running, which bring life and personality to the game world. 
 
 #### <ins>_Background Music_</ins>
 A looping soundtrack plays during gameplay, adding atmosphere and enhancing player immersion.
