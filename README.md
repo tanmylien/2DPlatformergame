@@ -38,10 +38,10 @@ Score counter, heart system for health. Start, win and game over panels along wi
 When the player successfully collects a cherry, a stardust effect will appear. When the player stomps a pig or frog, an explosion effect will appear, signaling that these enemies have been destroyed.
 
 ### Win/lose conditions 
-#### <ins>_Win Condition:_</ins>
+#### <ins>_Win Condition:_</ins> 🍒
 Collect 10 cherries to complete the level. 
 A “You Win!” screen appears with a restart option.
-#### <ins>_Lose Condition:_</ins>
+#### <ins>_Lose Condition:_</ins> ☠️
 - Lose all lives/hearts.
 - Fall off the screen into a void.
 - A “Game Over” screen appears with a restart option.
