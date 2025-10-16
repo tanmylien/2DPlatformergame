@@ -24,27 +24,27 @@ Stationary hazard. Can be defeated by stomping but damages from the sides. Playe
 ##### 🔶 Bear enemy 🐻: 
 Patrols like the pig, but indestructible. Any contact causes instant game over.
 
-#### 🔶 Hazards: 
+##### 🔶 Hazards: 
 Spikes, crates, and falling into the death zone all damage or kill the player. 
 
 Spikes are skulls which will launch to the sky when player touch an area that triggers it. Most of the time, the player cannot avoid the launching of the spike but they can avoid being hurt by it. Touching the spikes when they launch will damage the player and they will lose a heart.
 
 Crates: crates in the game serve as moving platforms that rise and fall vertically. Two crates are placed in the level, each moving at a different speed: one moves quickly to create a timing challenge for the player, while the other moves more slowly and can be used as a tool to reach higher areas, such as platforms where cherries are located. If the player is caught underneath a crate while it descends, they will be “crushed” and lose one heart. This mechanic adds variety to movement and encourages strategic use of the environment. Finally, falling out of the map results in an instant game over, reinforcing the importance of careful platforming and precise jumps.
 
-### <ins>_UI:_</ins> 
+#### <ins>_UI:_</ins> 
 Score counter, heart system for health. Start, win and game over panels along with buttons to start the game or play again.
 
-### <ins>_Feedback:_</ins> 
+#### <ins>_Feedback:_</ins> 
 When the player successfully collects a cherry, a stardust effect will appear. When the player stomps a pig or frog, an explosion effect will appear, signaling that these enemies have been destroyed.
 
 ### Win/lose conditions 
-Win Condition:
+#### <ins>_Win Condition:_</ins>
 Collect 10 cherries to complete the level. 
 A “You Win!” screen appears with a restart option.
-Lose Condition:
-Lose all lives/hearts.
-Fall off the screen into a void.
-A “Game Over” screen appears with a restart option.
+#### <ins>_Lose Condition:_</ins>
+- Lose all lives/hearts.
+- Fall off the screen into a void.
+- A “Game Over” screen appears with a restart option.
 
 ### What creative additions you implemented
 #### <ins>_Animated Character Sprites_</ins>
