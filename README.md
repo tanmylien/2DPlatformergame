@@ -1,8 +1,9 @@
 # Sunny Land
 ## 2D Mini Game Design Document
-### By My Lien Tan
+By My Lien Tan
 
-Game Concept and Inspiration
+## Game Concept and Inspiration
+
 A 2D Platformer inspired by classic retro platform games like Super Mario Bros. The main character is a little fox traveling in Sunny Land. This is a peaceful, colorful and natural land, evoking a peaceful feeling like walking in a garden next to the sea, with warm sunlight covering the space. In addition to the peaceful scenery, this land also contains many mysteries, such as the animals and hazards that the little fox must overcome to collect 10 cherries. My inspiration came from the desire to recreate the nostalgic feel of platform games while adding personalized creative touches like enemies (pig, frog, bear), sound effects, and UI screens (start, win, lose).
 
 Core Mechanics
