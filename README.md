@@ -41,6 +41,9 @@ When the player successfully collects a cherry, a stardust effect will appear. W
 #### <ins>_Win Condition:_</ins> 🍒
 Collect 10 cherries to complete the level. 
 A “You Win!” screen appears with a restart option.
+
+![Image](https://github.com/user-attachments/assets/8dd613a7-f392-4c24-bff2-d302bb41996a)
+
 #### <ins>_Lose Condition:_</ins> ☠️
 - Lose all lives/hearts.
 - Fall off the screen into a void.
