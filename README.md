@@ -10,10 +10,10 @@ A 2D Platformer inspired by classic retro platform games like Super Mario Bros. 
 #### <ins>_Movement:_</ins> 
 Player can run left/right and jump to traverse the map.
 
-#### _Collectibles:_
+#### <ins>_Collectibles:_</ins>
 Cherries are scattered across the level; collecting them increases score. A total score of 10 cherries will be a win.
 
-#### _Combat/Interaction with Enemies:_
+#### <ins>_Combat/Interaction with Enemies:_</ins>
 
 ##### Pig enemy 🐷: 
 Patrols between two points. Can be defeated by stomping on its head. Touching it from the sides will damage the player. Player will lose 1 heart.
@@ -24,15 +24,19 @@ Stationary hazard. Can be defeated by stomping but damages from the sides. Playe
 ##### Bear enemy 🐻: 
 Patrols like the pig, but indestructible. Any contact causes instant game over.
 
-Hazards: Spikes, crates, and falling into the death zone all damage or kill the player.
+Hazards: Spikes, crates, and falling into the death zone all damage or kill the player. 
+
 Spikes are skulls which will launch to the sky when player touch an area that triggers it. Most of the time, the player cannot avoid the launching of the spike but they can avoid being hurt by it. Touching the spikes when they launch will damage the player and they will lose a heart.
+
 Crates: crates in the game serve as moving platforms that rise and fall vertically. Two crates are placed in the level, each moving at a different speed: one moves quickly to create a timing challenge for the player, while the other moves more slowly and can be used as a tool to reach higher areas, such as platforms where cherries are located. If the player is caught underneath a crate while it descends, they will be “crushed” and lose one heart. This mechanic adds variety to movement and encourages strategic use of the environment. Finally, falling out of the map results in an instant game over, reinforcing the importance of careful platforming and precise jumps.
+
 UI: 
 Score counter, heart system for health. Start, win and game over panels along with buttons to start the game or play again.
+
 Feedback: 
 When the player successfully collects a cherry, a stardust effect will appear. When the player stomps a pig or frog, an explosion effect will appear, signaling that these enemies have been destroyed.
 
-Win/lose conditions 
+### Win/lose conditions 
 Win Condition:
 Collect 10 cherries to complete the level. 
 A “You Win!” screen appears with a restart option.
@@ -41,12 +45,13 @@ Lose all lives/hearts.
 Fall off the screen into a void.
 A “Game Over” screen appears with a restart option.
 
-What creative additions you implemented
-Animated Character Sprites
+### What creative additions you implemented
+#### <ins>_Animated Character Sprites_</ins>
 The player has unique animations for different states:  
 Idle: when standing still.
 Running: when moving horizontally.
 Jumping: when airborne.
 Enemies like pigs, frogs, and bear also have animations such as idle, walking, or running, which bring life and personality to the game world. 
-Background Music
+
+#### <ins>_Background Music_</ins>
 A looping soundtrack plays during gameplay, adding atmosphere and enhancing player immersion.
