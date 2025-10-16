@@ -33,6 +33,7 @@ Crates: crates in the game serve as moving platforms that rise and fall vertical
 
 #### <ins>_UI:_</ins> 
 Score counter, heart system for health. Start, win and game over panels along with buttons to start the game or play again.
+![Image](https://github.com/user-attachments/assets/5bcbd93c-4812-47fc-a539-78ff97c894d6)
 
 #### <ins>_Feedback:_</ins> 
 When the player successfully collects a cherry, a stardust effect will appear. When the player stomps a pig or frog, an explosion effect will appear, signaling that these enemies have been destroyed.
